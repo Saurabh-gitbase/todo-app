@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Counter extends Component {
+class Todo extends Component {
     state = {
         items :[],
         currItem:{
@@ -67,4 +67,4 @@ class Counter extends Component {
 
 
 
-export default Counter;
+export default Todo;
