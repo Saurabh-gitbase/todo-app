@@ -1,4 +1,4 @@
-##The published To-do App v2.0 with CSS and Animation:
+## The published To-do App v2.0 with CSS and Animation:
 https://saurabh-gitbase.github.io/ReactTodo-app-v2/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
